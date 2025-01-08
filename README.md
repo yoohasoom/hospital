@@ -25,16 +25,14 @@
 
 
 
-회원목록 조회
-![image](https://github.com/user-attachments/assets/13470c00-c7d6-4a6c-bade-9c0317553867)
+검사결과조회
+![image](https://github.com/user-attachments/assets/b31d00a9-789d-40b7-9b3f-5c27714ef58d)
 
 
-회원목록 수정
-![image](https://github.com/user-attachments/assets/078a43b0-1fba-4eb4-b279-5a8dcfbc81c2)
 
+지역별검사건수
+![image](https://github.com/user-attachments/assets/0c8ad03b-e0ba-4b6a-961e-fc80a981b06b)
 
-회원매출조회
-![image](https://github.com/user-attachments/assets/eff923fc-8acf-4a57-9c66-d6c69f7d1755)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=120&width=100%&section=footer" />
